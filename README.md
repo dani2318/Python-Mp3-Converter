@@ -24,7 +24,7 @@
   3) Create a folder in the script folder and extract the exe of FFMPEG
   4) You are ready to go
 
-  # Sha256 of the scripts:
+  ## Sha256 of the scripts:
   Script | SHA256|
   ------- | -------
   convert.py | 9E06A49C54D884893B6E8F0569E557CB400BA4CA88C3BF0C3381A120F088EAC4
