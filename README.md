@@ -17,16 +17,16 @@
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <https://www.gnu.org/licenses/>.
   
-  ### How to use this script:
+  ## How to use this script:
   
   1) Download FFMPEG from this link: https://www.ffmpeg.org/download.html
   2) Download this script
   3) Create a folder in the script folder and extract the exe of FFMPEG
   4) You are ready to go
 
-  ### THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS:
+  ## THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS:
   
   Whitedeops Colors Repository: [GitHub]https://github.com/whitedevops/colors/blob/master/colors.go 
 
-  ### For any copyright problems you can write me at this mail:
+  ## For any copyright problems you can write me at this mail:
   giacche.dani@gmail.com 
