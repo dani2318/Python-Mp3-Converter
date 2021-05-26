@@ -26,7 +26,7 @@
 
   ### THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS:
   
-  Whitedeops Colors Repository: [GitHub]https://github.com/whitedevops/colors/blob/master/colors.go 
+  Whitedeops Colors Repository: [GitHub]https://github.com/whitedevops/colors/blob/master/colors.go or [pkg.go.dev]https://pkg.go.dev/github.com/whitedevops/colors
 
   ## For any copyright problems you can write me at this mail:
   dani2318dev@gmail.com
