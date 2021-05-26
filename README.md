@@ -1,5 +1,7 @@
   ### Python-Mp3-Converter
 
+
+  ## License:
   Copyright (C) 2021 dani2318
 
   This program is free software: you can redistribute it and/or modify
@@ -22,7 +24,9 @@
 
   ### DISCLAIMER:
   I don't own any right over FFMPEG, but for anything you can find info on this site:
-  ### https://www.ffmpeg.org/about.html
+  ### https://www.ffmpeg.org/about.html 
+  And for the license about FFMPEG you can go at this page:
+  ### https://www.ffmpeg.org/legal.html
 
   ### For any copyright problems you can write me at this mail:
   giacche.dani@gmail.com 
