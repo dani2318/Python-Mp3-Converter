@@ -17,7 +17,7 @@
 
   ### THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS:
   
-  Whitedeops Colors Repository: [GitHub] https://github.com/whitedevops/colors/blob/master/colors.go 
+  Whitedeops Colors Repository: [GitHub]https://github.com/whitedevops/colors/blob/master/colors.go 
   FFMPEG: https://ffmpeg.org/legal.html -> Source Code: https://github.com/FFmpeg/FFmpeg
 
   ### DISCLAIMER:
