@@ -21,7 +21,7 @@
   
   1) Download FFMPEG from this link: https://www.ffmpeg.org/download.html
   2) Download this script
-  3) Create a folder in the script folder and extract the exe of FFMPEG
+  3) Create a folder in the script folder ("bin") and extract the exe of FFMPEG
   4) You are ready to go
 
   ## Sha256 of the scripts:
