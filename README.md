@@ -10,8 +10,8 @@
   (at your option) any later version.
 
   This program is distributed in the hope that it will be useful,
-  but WITHOUT ANY WARRANTY; without even the implied warranty of
-  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  but **WITHOUT ANY WARRANTY**; without even the implied warranty of
+  **MERCHANTABILITY** or **FITNESS FOR A PARTICULAR PURPOSE**.  See the
   GNU General Public License for more details.
 
   You should have received a copy of the GNU General Public License
@@ -30,7 +30,7 @@
   convert.py | 9E06A49C54D884893B6E8F0569E557CB400BA4CA88C3BF0C3381A120F088EAC4
   colors.py  | C009DA215259B26C03D01BA8DF7838CF462BC161D87DA1C5E1A05C950714418F
 
-  ### THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS:
+  ### **THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS**:
   
   Whitedeops Colors Repository: [GitHub]https://github.com/whitedevops/colors/blob/master/colors.go or [pkg.go.dev]https://pkg.go.dev/github.com/whitedevops/colors
 
