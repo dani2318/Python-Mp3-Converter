@@ -24,3 +24,6 @@
   ### DISCLAIMER:
   I don't own any right over FFMPEG, but for anything you can find info on this site:
   ### https://www.ffmpeg.org/about.html
+
+  ### For any copyright problems you can write me at this mail:
+  giacche.dani@gmail.com 
