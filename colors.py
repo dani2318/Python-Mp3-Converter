@@ -11,8 +11,8 @@ class Initial_colors:
 
 """
     Whitedeops Colors Repository: 
-    [GitHub]https://github.com/whitedevops/colors/blob/master/colors.go 
-    [pkg.go.dev]https://pkg.go.dev/github.com/whitedevops/colors
+    [GitHub] https://github.com/whitedevops/colors/blob/master/colors.go 
+    [pkg.go.dev] https://pkg.go.dev/github.com/whitedevops/colors
 """
 
 class colors:
