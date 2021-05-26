@@ -1,6 +1,6 @@
   ### Python-Mp3-Converter
 
-  Copyright (C) 2021  dani2318
+  Copyright (C) 2021 dani2318
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -15,12 +15,12 @@
   You should have received a copy of the GNU General Public License
   along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-  ###THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS:
+  ### THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS:
   ╔
   ║   Whitedeops Colors Repository: https://github.com/whitedevops/colors/blob/master/colors.go
-  ║   FFMPEG: https://ffmpeg.org/legal.html -> Source Code: https://github.com/FFmpeg/FFmpeg
+  ║   ### FFMPEG: https://ffmpeg.org/legal.html -> ### Source Code: https://github.com/FFmpeg/FFmpeg
   ╚
 
-  ###DISCLAIMER:
+  ### DISCLAIMER:
   I don't own any right over FFMPEG, but for anything you can find info on this site:
-  https://www.ffmpeg.org/about.html
+  ### https://www.ffmpeg.org/about.html
