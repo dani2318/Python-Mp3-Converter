@@ -9,6 +9,12 @@ class Initial_colors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
+"""
+    Whitedeops Colors Repository: 
+    [GitHub]https://github.com/whitedevops/colors/blob/master/colors.go 
+    [pkg.go.dev]https://pkg.go.dev/github.com/whitedevops/colors
+"""
+
 class colors:
 	ENDC = "\033[0m"
 
