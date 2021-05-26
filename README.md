@@ -24,7 +24,7 @@
   3) Create a folder in the script folder and extract the exe of FFMPEG
   4) You are ready to go
 
-  # THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS:
+  ### THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS:
   
   Whitedeops Colors Repository: [GitHub]https://github.com/whitedevops/colors/blob/master/colors.go 
 
