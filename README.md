@@ -16,10 +16,8 @@
   along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
   ### THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS:
-  ╔
-  ║   Whitedeops Colors Repository: https://github.com/whitedevops/colors/blob/master/colors.go
-  ║   FFMPEG: https://ffmpeg.org/legal.html -> Source Code: https://github.com/FFmpeg/FFmpeg
-  ╚
+      Whitedeops Colors Repository: https://github.com/whitedevops/colors/blob/master/colors.go 
+      FFMPEG: https://ffmpeg.org/legal.html -> Source Code: https://github.com/FFmpeg/FFmpeg
 
   ### DISCLAIMER:
   I don't own any right over FFMPEG, but for anything you can find info on this site:
