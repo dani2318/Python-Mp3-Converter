@@ -30,10 +30,6 @@
   convert.py | 9E06A49C54D884893B6E8F0569E557CB400BA4CA88C3BF0C3381A120F088EAC4
   colors.py  | C009DA215259B26C03D01BA8DF7838CF462BC161D87DA1C5E1A05C950714418F
 
-  ### **THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS**:
-  
-  Whitedeops Colors Repository: [GitHub]https://github.com/whitedevops/colors/blob/master/colors.go or [pkg.go.dev]https://pkg.go.dev/github.com/whitedevops/colors
-
   ## For any copyright problems you can write me at this mail:
   dani2318dev@gmail.com
 

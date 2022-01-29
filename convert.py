@@ -19,19 +19,19 @@ import os
 """
     THIS SCRIPT USES THE FOLLOWING RESOURCES AND PROGRAMS:
     ╔
-    ║   Whitedeops Colors Repository: https://github.com/whitedevops/colors/blob/master/colors.go
     ║   FFMPEG: https://ffmpeg.org/legal.html -> Source Code: https://github.com/FFmpeg/FFmpeg
     ╚
 """
 
-"""
-    DISCLAIMER:
-    I don't own any right over FFMPEG, but for anything you can find info on this site:
-    https://www.ffmpeg.org/about.html
-"""
+class colors:
+	ENDC = "\033[0m"
+	Bold       = "\033[1m"
+	Underlined = "\033[4m"
+	Black        = "\033[30m"
+	Red          = "\033[31m"
+	Green        = "\033[32m"
+	BackgroundWhite = "\033[107m"
 
-
-from colors import colors
 #Read the script running path!
 pathToFile = os.path.realpath(__file__).replace("convert.py","")
 print(colors.Bold+colors.BackgroundWhite+colors.Black+"Input the requested info:"+colors.ENDC+colors.ENDC+colors.ENDC)
